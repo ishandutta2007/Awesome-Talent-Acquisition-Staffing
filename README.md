@@ -55,43 +55,43 @@ Commercial, cloud-hosted Talent Acquisition and Staffing platforms. The table be
 
 Self-hosted, transparent, and community-driven Talent Acquisition and Applicant Tracking systems. Sorted descending by GitHub stargazers count. 🛠️💻
 
-### 1. 🌟 [Frappe HR / HRMS](https://github.com/frappe/hrms) [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
+### 1. 🌟 [Frappe HR / HRMS](https://github.com/frappe/hrms) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
 - ⚙️ **Stack:** Python / JavaScript / MariaDB / Redis (Frappe Framework)
 - 📜 **License:** GPL-3.0
 - 📝 **Summary:** An enterprise-grade, 100% open-source HR and recruitment management suite. It features a complete applicant tracking system with job applicant pipelines, job opening portals, interview scheduling, offer letter generation, and onboarding workflows that transition into employee management.
 - 🎯 **Best For:** Modern businesses and staffing teams seeking a comprehensive, customizable, and modern open-source hiring and workforce platform.
 
-### 2. 🦍 [Horilla HR](https://github.com/horilla/horilla-hr) [![GitHub stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers)
+### 2. 🦍 [Horilla HR](https://github.com/horilla/horilla-hr) [![GitHub_Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers)
 - ⚙️ **Stack:** Python / Django / PostgreSQL
 - 📜 **License:** LGPL-2.1
 - 📝 **Summary:** A comprehensive human resource platform featuring a first-class recruitment module alongside employee onboarding, attendance, and leave management. Provides visual candidate pipelines, interview workflows, and a REST API with zero default credentials.
 - 🎯 **Best For:** Organizations seeking a modern Python/Django architecture for candidate pipelines and end-to-end recruitment lifecycle tracking.
 
-### 3. 🍊 [OrangeHRM](https://github.com/orangehrm/orangehrm) [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
+### 3. 🍊 [OrangeHRM](https://github.com/orangehrm/orangehrm) [![GitHub_Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
 - ⚙️ **Stack:** PHP / Symfony / MySQL
 - 📜 **License:** GPL-2.0
 - 📝 **Summary:** One of the most widely deployed open-source human resource platforms globally, featuring a dedicated recruitment module for publishing vacancies, collecting resumes, tracking applicant statuses, and managing interview stages.
 - 🎯 **Best For:** Established enterprises and public sector organizations requiring proven, multi-language recruitment and employee management.
 
-### 4. 🐱 [OpenCATS](https://github.com/opencats/OpenCATS) [![GitHub stars](https://img.shields.io/github/stars/opencats/OpenCATS?style=social&color=white)](https://github.com/opencats/OpenCATS/stargazers)
+### 4. 🐱 [OpenCATS](https://github.com/opencats/OpenCATS) [![GitHub_Stars](https://img.shields.io/github/stars/opencats/OpenCATS?style=social&color=white)](https://github.com/opencats/OpenCATS/stargazers)
 - ⚙️ **Stack:** PHP / MySQL
 - 📜 **License:** GPL-3.0
 - 📝 **Summary:** The most established dedicated open-source applicant tracking system tailored specifically for recruitment agencies. Features job orders, candidate submission tracking, client company profiles, resume parsing with full-text search, and activity logs.
 - 🎯 **Best For:** Independent staffing firms and headhunters looking for a 100% free, agency-focused recruitment CRM with self-hosted data ownership.
 
-### 5. ⚡ [Nueno](https://github.com/nueno-co/nueno) [![GitHub stars](https://img.shields.io/github/stars/nueno-co/nueno?style=social&color=white)](https://github.com/nueno-co/nueno/stargazers)
+### 5. ⚡ [Nueno](https://github.com/nueno-co/nueno) [![GitHub_Stars](https://img.shields.io/github/stars/nueno-co/nueno?style=social&color=white)](https://github.com/nueno-co/nueno/stargazers)
 - ⚙️ **Stack:** TypeScript / Next.js / Node.js
 - 📜 **License:** AGPL-3.0
 - 📝 **Summary:** A modern, lightweight open-source applicant tracking system built for engineering teams and fast-growing businesses. Features clean Kanban candidate boards, customizable recruitment stages, and seamless hiring manager collaboration.
 - 🎯 **Best For:** Modern tech companies and startups looking for a snappy, TypeScript-first ATS experience.
 
-### 6. 🌐 [Plutomi](https://github.com/plutomi/plutomi) [![GitHub stars](https://img.shields.io/github/stars/plutomi/plutomi?style=social&color=white)](https://github.com/plutomi/plutomi/stargazers)
+### 6. 🌐 [Plutomi](https://github.com/plutomi/plutomi) [![GitHub_Stars](https://img.shields.io/github/stars/plutomi/plutomi?style=social&color=white)](https://github.com/plutomi/plutomi/stargazers)
 - ⚙️ **Stack:** TypeScript / Node.js / Docker
 - 📜 **License:** Apache-2.0
 - 📝 **Summary:** A scalable multi-tenant applicant tracking system designed to streamline high-volume application intake and candidate screening with customizable stages and automated progression rules.
 - 🎯 **Best For:** Developers and hiring teams needing high-throughput application management and modern architecture.
 
-### 7. 🧙 [Hire Gnome ATS](https://github.com/Gnorman-Codes/hire-gnome-ats) [![GitHub stars](https://img.shields.io/github/stars/Gnorman-Codes/hire-gnome-ats?style=social&color=white)](https://github.com/Gnorman-Codes/hire-gnome-ats/stargazers)
+### 7. 🧙 [Hire Gnome ATS](https://github.com/Gnorman-Codes/hire-gnome-ats) [![GitHub_Stars](https://img.shields.io/github/stars/Gnorman-Codes/hire-gnome-ats?style=social&color=white)](https://github.com/Gnorman-Codes/hire-gnome-ats/stargazers)
 - ⚙️ **Stack:** TypeScript / React / Node.js
 - 📜 **License:** MIT
 - 📝 **Summary:** A lightweight, self-hosted recruiting tool created as an open-source Bullhorn alternative for boutique agencies. Focuses on candidates, job orders, and client pipelines without enterprise complexity or overhead.
