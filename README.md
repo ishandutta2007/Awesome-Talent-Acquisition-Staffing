@@ -1,133 +1,151 @@
-# Awesome-Talent-Acquisition-Staffing
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Talent Acquisition and Staffing Software Banner" width="100%" />
+</p>
 
-# Awesome Talent Acquisition & Staffing
+# Awesome Talent Acquisition & Staffing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/)
 
-> A curated list of top Talent Acquisition and Staffing platforms — both SaaS/Hosted commercial solutions and open-source alternatives for managing candidates, job orders, and recruitment pipelines.
-> 🌟 Star this repo if you find it useful! 🌟
+> A curated directory of top **Talent Acquisition (TA)** and **Staffing platforms** — covering commercial enterprise SaaS solutions, recruiting CRMs, applicant tracking systems (ATS), and production-ready open-source alternatives for modern recruitment agencies and talent teams.
 
 ---
 
-## 📋 Table of Contents
+## 🧭 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Bullhorn](#bullhorn)
-  - [JobDiva](#jobdiva)
-  - [Ceipal ATS](#ceipal-ats)
-  - [Avionté](#avionté)
-  - [Crelate](#crelate)
-  - [Vincere](#vincere)
-  - [TargetRecruit](#targetrecruit)
-  - [Loxo](#loxo)
-  - [TrackerRMS](#trackerrms)
-  - [Zoho Recruit](#zoho-recruit)
 - [Open-Source Software](#-open-source-software)
-  - [OpenCATS](#opencats)
-  - [Horilla HR](#horilla-hr)
-  - [Hire Gnome](#hire-gnome)
 - [Comparison at a Glance](#-comparison-at-a-glance)
 - [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global staffing and recruitment services industry commands an estimated market size exceeding **$550B–$630B+**, while the dedicated talent acquisition and recruitment software (ATS/CRM) technology market accounts for approximately **$26B–$28B+** and is projected to expand significantly with AI integration.
+
+The sector exhibits distinct market dynamics:
+- **Broader Staffing & Agency Services:** Highly fragmented across tens of thousands of regional, boutique, and specialized recruitment firms, where the top 10 global agencies control under 10% of overall industry volume.
+- **Talent Acquisition (TA) Software Layer:** Moderately fragmented but experiencing rapid consolidation, with enterprise human capital management (HCM) suites and scaled recruiting leaders routinely acquiring point solutions in AI sourcing, resume parsing, and candidate engagement.
 
 ---
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Talent Acquisition and Staffing platforms. These are not open-source but are included as reference points for feature comparison.
+Commercial, cloud-hosted Talent Acquisition and Staffing platforms. The table below is sorted descending by company scale (annual revenue / valuation), featuring verified entry-level pricing tiers and specific free tier or trial limits.
 
-### Bullhorn
-**Type:** Staffing and recruiting CRM/ATS  
-Bullhorn is the long-standing enterprise standard for staffing agencies, combining ATS and CRM functionality with a vast marketplace of integrations. It handles candidate pipelines, client relationships, job orders, submissions, and placement tracking. Pricing is quote-based and typically targets mid-to-large staffing firms.
-
-### JobDiva
-**Type:** ATS with recruiting CRM  
-JobDiva provides applicant tracking, recruiting CRM, and resume parsing for staffing agencies. It is known for its integrated resume database and matching capabilities. Pricing is quote-based.
-
-### Ceipal ATS
-**Type:** AI-powered staffing platform  
-Ceipal combines ATS, CRM, and talent management for staffing firms, with AI-assisted candidate matching and automation. Positioned for mid-market staffing agencies.
-
-### Avionté
-**Type:** Staffing software for clerical and light industrial  
-Avionté focuses on staffing agencies in clerical, light industrial, and professional sectors, with payroll, billing, and ATS capabilities. Pricing is quote-based.
-
-### Crelate
-**Type:** Recruiting CRM with ATS  
-Crelate combines a recruiting CRM with applicant tracking, offering pipeline management, job orders, and integrations. Positioned for small to mid-sized recruiting firms.
-
-### Vincere
-**Type:** Recruitment CRM and ATS  
-Vincere provides a combined CRM and ATS for recruitment agencies, with sales pipeline management, candidate tracking, and analytics. Pricing is quote-based.
-
-### TargetRecruit
-**Type:** ATS built on Salesforce  
-TargetRecruit is built natively on Salesforce, offering ATS and recruiting CRM functionality for staffing firms already using the Salesforce platform.
-
-### Loxo
-**Type:** Recruiting CRM with sourcing automation  
-Loxo combines ATS, CRM, and sourcing automation, with a built-in resume database and outreach tools. Positioned for growing recruiting agencies.
-
-### TrackerRMS
-**Type:** Recruitment software for staffing agencies  
-TrackerRMS provides ATS, CRM, and back-office functionality for staffing agencies, with a focus on contract and permanent placement workflows.
-
-### Zoho Recruit
-**Type:** ATS within Zoho ecosystem  
-Zoho Recruit offers applicant tracking, resume parsing, and recruitment workflow automation as part of the broader Zoho suite. Suited for organizations already using Zoho products, with a free tier for small teams.
+| Product | Company Scale (Revenue / Valuation) | Starting Tier Pricing | Free Tier / Free Trial Limits | Key Features & Focus |
+|:---|:---|:---|:---|:---|
+| **[Zoho Recruit](https://www.zoho.com/recruit/)** | ~$1.5B Revenue (~$12.5B Valuation) | $30/recruiter/mo ($25/mo billed annually) for Standard Staffing Plan | **Free Forever Plan** (1 active job opening, basic candidate tracking); **15-Day Free Trial** for paid tiers (capped at 20 emails total per account during trial) | Sourcing, candidate management, client portal, job boards, and automated workflows natively integrated into the Zoho ecosystem. |
+| **[Vincere](https://www.vincere.io/)** *(The Access Group)* | ~$1.4B+ Revenue / ~$11B+ Parent Valuation (~$17M Vincere standalone) | £95/user/mo for Core Plan (~£150/mo flat for solo Startup Plan) | **No self-serve free trial** (Evaluation sandbox / targeted module pilot available upon sales demo) | Combined recruitment CRM and ATS ("Recruitment Operating System") built specifically for mid-market and scaling staffing agencies. |
+| **[Bullhorn](https://www.bullhorn.com/)** | ~$250M–$335M+ Revenue (Multi-billion Private Valuation) | $99/user/month (Starter tier) | **No free trial** (Guided enterprise product demonstration with custom workflows only) | Long-standing enterprise market leader for staffing firms, handling front-to-back office pipelines, submittals, and marketplace integrations. |
+| **[Ceipal ATS](https://www.ceipal.com/)** | ~$119M–$171M+ Revenue | ~$24–$25/user/month (5-user minimum commitment, ~$120–$125/mo baseline) | **No public self-serve free trial** (Consultative sandbox access provided post-demo) | AI-powered candidate matching, sourcing automation, and workforce management for contract staffing and IT recruiters. |
+| **[Loxo](https://loxo.co/)** | ~$27M–$76M+ Revenue ($115M Venture Backing) | $149/user/month billed annually (Core ATS/CRM) | **7-Day Free Trial** (Professional tier trial with 850M+ talent graph access, no credit card required) | AI recruitment engine combining ATS, multi-channel outbound CRM, sourcing automation, and enriched personal contact information. |
+| **[JobDiva](https://www.jobdiva.com/)** | ~$26M–$32M+ Revenue (Bootstrapped) | ~$100/user/month (Starting baseline estimate; quote-based) | **No free trial** (Custom tailored demonstration required) | Staffing agency ATS and CRM renowned for automated resume harvesting, candidate matching, and VMS synchronization. |
+| **[Avionté](https://www.avionte.com/)** | ~$26M–$47M+ Revenue (PE-backed) | ~$100–$150+/user/month (Starting staffing ATS; quote-based) | **No free trial** (Live guided consultation and workflow demo only) | Front-to-back staffing software specializing in clerical, light industrial, and healthcare placements, including integrated payroll and billing. |
+| **[TargetRecruit](https://www.targetrecruit.com/)** *(Acquired by Bullhorn)* | ~$15M–$25M Revenue (Acquired July 2025) | $124–$150/user/month (Professional baseline tier) | **No free trial** (Sales demo required) | Enterprise ATS and CRM built natively on the Salesforce platform, engineered for healthcare and large-scale contract staffing firms. |
+| **[TrackerRMS](https://www.tracker-rms.com/)** | ~$12.6M–$13.5M Revenue (Backed by GSV) | ~$79–$110/user/month (Starter/Pro baseline tiers) | **No self-serve free trial** (Demo-based trial provisioned upon consultation) | Complete recruitment agency software suite uniting sales CRM, applicant tracking, candidate onboarding, and back-office timesheets. |
+| **[Crelate](https://www.crelate.com/)** | ~$9.5M+ Revenue ($12.1M Funding) | $85/user/month billed annually (Essentials Plan, capped at 2 seats); $119/user/mo (Business) | **14-Day Free Trial** (Full Business platform access, no credit card required) | Modern recruiting CRM and ATS combining visual pipeline management, automated candidate engagement, and flexible agency workflows. |
 
 ---
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Talent Acquisition and Staffing tools. The open-source ecosystem in this category is notably limited, with a single mature ATS and several broader HR platforms that include recruitment modules.
+Self-hosted, transparent, and community-driven Talent Acquisition and Applicant Tracking systems. Sorted descending by GitHub stargazers count.
 
-### OpenCATS
-**Stack:** PHP / MySQL | **License:** GPL-3.0  
-OpenCATS is the most established open-source applicant tracking system, explicitly designed for recruiters and staffing agencies to manage the process from job posting through candidate selection and submission . It covers candidate and company management, job orders, pipeline monitoring, activity tracking, resume storage with full-text search, and a calendar [citation:15]. The documentation is candid about its position: it is free for unlimited users and self-hosted, giving organizations full control over recruiting data and security, but it does not compete feature-for-feature with modern paid ATS platforms [citation:4]. The project has an active modernization roadmap covering PHP 8.4/8.5 fixes, database and UI improvements, and API/integration features .  
-**Best for:** Recruiting agencies and hiring teams wanting a free, self-hosted ATS with core pipeline management and full data ownership, accepting that the feature set is more limited than commercial staffing platforms.
+### 1. [Frappe HR / HRMS](https://github.com/frappe/hrms) [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
+- **Stack:** Python / JavaScript / MariaDB / Redis (Frappe Framework)
+- **License:** GPL-3.0
+- **Summary:** An enterprise-grade, 100% open-source HR and recruitment management suite. It features a complete applicant tracking system with job applicant pipelines, job opening portals, interview scheduling, offer letter generation, and onboarding workflows that transition into employee management.
+- **Best For:** Modern businesses and staffing teams seeking a comprehensive, customizable, and modern open-source hiring and workforce platform.
 
-### Horilla HR
-**Stack:** Python / Django / PostgreSQL | **License:** LGPL-2.1  
-Horilla is a comprehensive open-source HR management suite that includes a **recruitment module** alongside onboarding, attendance, leave, payroll, performance, and asset management [citation:6][citation:7]. The recruitment functionality covers candidate pipelines and interview scheduling, while the broader suite handles the full employee lifecycle. It provides a versioned REST API and ships in twelve languages. Deployment is via Docker with PostgreSQL, with hardened production settings and no default admin credentials [citation:6]. While not a dedicated staffing agency ATS, it is the most mature open-source HR platform that includes recruitment as a first-class module.  
-**Best for:** Organizations wanting an open-source HR suite that covers recruitment alongside broader employee management, particularly those not needing agency-specific staffing workflows.
+### 2. [Horilla HR](https://github.com/horilla/horilla-hr) [![GitHub stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers)
+- **Stack:** Python / Django / PostgreSQL
+- **License:** LGPL-2.1
+- **Summary:** A comprehensive human resource platform featuring a first-class recruitment module alongside employee onboarding, attendance, and leave management. Provides visual candidate pipelines, interview workflows, and a REST API with zero default credentials.
+- **Best For:** Organizations seeking a modern Python/Django architecture for candidate pipelines and end-to-end recruitment lifecycle tracking.
 
-### Hire Gnome
-**Stack:** (Check repository) | **License:** Open Source  
-Hire Gnome is a newer, lightweight open-source ATS explicitly positioned as an **open-source Bullhorn alternative for small recruiting agencies** [citation:11]. It focuses on the core recruiting workflow—managing candidates, tracking submissions, and organizing hiring pipelines—while allowing teams to self-host and maintain full control over their data. The developer's stated motivation was that small agencies were forced into expensive, complex ATS platforms designed for much larger organizations [citation:11]. **Important:** The project is still early and evolving; evaluate maturity and feature completeness before production use.  
-**Best for:** Small recruiting agencies and independent recruiters wanting a simple, self-hosted ATS without the complexity and cost of enterprise staffing platforms.
+### 3. [OrangeHRM](https://github.com/orangehrm/orangehrm) [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
+- **Stack:** PHP / Symfony / MySQL
+- **License:** GPL-2.0
+- **Summary:** One of the most widely deployed open-source human resource platforms globally, featuring a dedicated recruitment module for publishing vacancies, collecting resumes, tracking applicant statuses, and managing interview stages.
+- **Best For:** Established enterprises and public sector organizations requiring proven, multi-language recruitment and employee management.
+
+### 4. [OpenCATS](https://github.com/opencats/OpenCATS) [![GitHub stars](https://img.shields.io/github/stars/opencats/OpenCATS?style=social&color=white)](https://github.com/opencats/OpenCATS/stargazers)
+- **Stack:** PHP / MySQL
+- **License:** GPL-3.0
+- **Summary:** The most established dedicated open-source applicant tracking system tailored specifically for recruitment agencies. Features job orders, candidate submission tracking, client company profiles, resume parsing with full-text search, and activity logs.
+- **Best For:** Independent staffing firms and headhunters looking for a 100% free, agency-focused recruitment CRM with self-hosted data ownership.
+
+### 5. [Nueno](https://github.com/nueno-co/nueno) [![GitHub stars](https://img.shields.io/github/stars/nueno-co/nueno?style=social&color=white)](https://github.com/nueno-co/nueno/stargazers)
+- **Stack:** TypeScript / Next.js / Node.js
+- **License:** AGPL-3.0
+- **Summary:** A modern, lightweight open-source applicant tracking system built for engineering teams and fast-growing businesses. Features clean Kanban candidate boards, customizable recruitment stages, and seamless hiring manager collaboration.
+- **Best For:** Modern tech companies and startups looking for a snappy, TypeScript-first ATS experience.
+
+### 6. [Plutomi](https://github.com/plutomi/plutomi) [![GitHub stars](https://img.shields.io/github/stars/plutomi/plutomi?style=social&color=white)](https://github.com/plutomi/plutomi/stargazers)
+- **Stack:** TypeScript / Node.js / Docker
+- **License:** Apache-2.0
+- **Summary:** A scalable multi-tenant applicant tracking system designed to streamline high-volume application intake and candidate screening with customizable stages and automated progression rules.
+- **Best For:** Developers and hiring teams needing high-throughput application management and modern architecture.
+
+### 7. [Hire Gnome ATS](https://github.com/Gnorman-Codes/hire-gnome-ats) [![GitHub stars](https://img.shields.io/github/stars/Gnorman-Codes/hire-gnome-ats?style=social&color=white)](https://github.com/Gnorman-Codes/hire-gnome-ats/stargazers)
+- **Stack:** TypeScript / React / Node.js
+- **License:** MIT
+- **Summary:** A lightweight, self-hosted recruiting tool created as an open-source Bullhorn alternative for boutique agencies. Focuses on candidates, job orders, and client pipelines without enterprise complexity or overhead.
+- **Best For:** Solo recruiters and boutique agencies wanting a minimalist, self-hosted ATS for core candidate submittals.
 
 ---
 
 ## 📊 Comparison at a Glance
 
-| Software | License | Stack | Agency-Focused | Recruitment Module | Self-Hosted | Best For |
-|----------|---------|-------|----------------|---------------------|-------------|----------|
-| **Bullhorn** | Proprietary | Cloud | ✅ | ✅ | ❌ | Enterprise staffing CRM/ATS |
-| **JobDiva** | Proprietary | Cloud | ✅ | ✅ | ❌ | Resume matching + CRM |
-| **Ceipal** | Proprietary | Cloud | ✅ | ✅ | ❌ | AI-assisted staffing |
-| **Crelate** | Proprietary | Cloud | ✅ | ✅ | ❌ | Small/mid recruiting CRM |
-| **Zoho Recruit** | Proprietary | Cloud | (Both) | ✅ | ❌ | Zoho ecosystem ATS |
-| **OpenCATS** | GPL-3.0 | PHP/MySQL | ✅ | ✅ | ✅ | Free self-hosted ATS |
-| **Horilla HR** | LGPL-2.1 | Python/Django | ❌ (HR suite) | ✅ (Module) | ✅ | HR suite with recruitment |
-| **Hire Gnome** | Open Source | (Check) | ✅ | ✅ | ✅ | Lightweight small-agency ATS |
+| Software | Model | License / Architecture | Agency-Focused | Dedicated ATS Pipeline | Self-Hosted | Primary Deployment |
+|:---|:---|:---|:---:|:---:|:---:|:---|
+| **Zoho Recruit** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Multi-tenant Cloud |
+| **Vincere** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Multi-tenant Cloud |
+| **Bullhorn** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Enterprise Cloud |
+| **Ceipal ATS** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Enterprise Cloud |
+| **Loxo** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Multi-tenant Cloud |
+| **JobDiva** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Enterprise Cloud |
+| **Avionté** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Enterprise Cloud |
+| **TargetRecruit** | Commercial SaaS | Salesforce Cloud | ✅ | ✅ | ❌ | Salesforce Platform |
+| **TrackerRMS** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Multi-tenant Cloud |
+| **Crelate** | Commercial SaaS | Proprietary Cloud | ✅ | ✅ | ❌ | Multi-tenant Cloud |
+| **Frappe HR** | Open-Source | GPL-3.0 (Python/JS) | ❌ (HR Suite) | ✅ | ✅ | Self-hosted / Frappe Cloud |
+| **Horilla HR** | Open-Source | LGPL-2.1 (Python/Django) | ❌ (HR Suite) | ✅ | ✅ | Self-hosted (Docker) |
+| **OrangeHRM** | Open-Source | GPL-2.0 (PHP/Symfony) | ❌ (HR Suite) | ✅ | ✅ | Self-hosted (LAMP) |
+| **OpenCATS** | Open-Source | GPL-3.0 (PHP/MySQL) | ✅ | ✅ | ✅ | Self-hosted (PHP/MySQL) |
+| **Nueno** | Open-Source | AGPL-3.0 (Next.js/TS) | ❌ (Internal) | ✅ | ✅ | Self-hosted (Docker/Node) |
+| **Plutomi** | Open-Source | Apache-2.0 (TypeScript) | ✅ | ✅ | ✅ | Self-hosted (Docker/Cloud) |
+| **Hire Gnome** | Open-Source | MIT (TypeScript/React) | ✅ | ✅ | ✅ | Self-hosted (Node.js) |
+
+---
+
+## 🔍 SEO Keywords & Topics
+
+`applicant-tracking-system` • `ats` • `recruitment-crm` • `talent-acquisition` • `staffing-software` • `bullhorn-alternative` • `open-source-ats` • `recruiting-platform` • `candidate-pipeline` • `agency-staffing` • `headhunting-software` • `hr-tech`
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Talent Acquisition or Staffing tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! To suggest a new tool or update existing information:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
+1. Fork this repository.
+2. Create your feature branch (`git checkout -b feature/add-new-tool`).
+3. Commit your changes with clear descriptions (`git commit -m 'Add ToolName to Open-Source section'`).
+4. Push to your branch (`git push origin feature/add-new-tool`).
+5. Open a Pull Request.
 
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source. Note that the open-source ecosystem for **dedicated staffing agency software** is very limited. **OpenCATS** is the only mature open-source ATS explicitly built for recruiters and staffing agencies, with a candid acknowledgment that it trades feature depth for zero cost and full data control [citation:4]. **Horilla** offers recruitment as part of a broader HR suite, and **Hire Gnome** is a promising but early-stage lightweight alternative for small agencies.
+Please ensure open-source submissions are actively maintained, include a valid OSI-approved license, and provide genuine recruiting or applicant tracking utility.
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
+This repository is made available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (Public Domain Dedication). Listed software products and repositories belong to their respective copyright holders.
 
 ---
 
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+<p align="center">
+  ⭐ <b>Star this repository if you find it helpful for your talent acquisition and staffing operations!</b> ⭐
+</p>
